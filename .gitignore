@@ -1,0 +1,13 @@
+# Environments
+
+.DS_Store
+*/.DS_Store
+
+### VisualStudioCode ###
+.vscode/*
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+new
+nohup.out 
