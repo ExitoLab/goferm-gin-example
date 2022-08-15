@@ -1,4 +1,4 @@
-### Goferm demonistration of Go Gin Web Framework
+### Goferm demonstration of Go Gin Web Framework
 
 This is a simple demonstration on how use Gin Webframe work 
 
